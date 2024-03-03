@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blog-with-react-firebase/static/css/main.c549bade.css",
+    "main.js": "/blog-with-react-firebase/static/js/main.6506ca86.js",
+    "index.html": "/blog-with-react-firebase/index.html",
+    "main.c549bade.css.map": "/blog-with-react-firebase/static/css/main.c549bade.css.map",
+    "main.6506ca86.js.map": "/blog-with-react-firebase/static/js/main.6506ca86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c549bade.css",
+    "static/js/main.6506ca86.js"
+  ]
+}
